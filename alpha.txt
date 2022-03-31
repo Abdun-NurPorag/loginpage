@@ -1,13 +1,1 @@
-i<table border="1">
-  <tr>
-    <td>Date</td>
-    <td>Time</td>
-    <td>Wind spreed</td>
-    <td>Wind direction</td>
-    <td>Rain [mm/mm]</td>
-    <td>Office name</td>
-    <td>Warning</td>
-  </tr>
-  <tr>
-<marquee>End</marquee>
-hz
+<h1>Server down</h1>
