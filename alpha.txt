@@ -9,11 +9,4 @@
     <td>Warning</td>
   </tr>
   <tr>
-    <td>12/01/2020</td>
-    <td>18000pm</td>
-    <td>80km</td>
-    <td>S-W</td>
-    <td>kejejkekekekioiis</td>
-    <td>Alpha room</td>
-    <td>No</td>
-  </tr>
+<marquee>End</marquee>
